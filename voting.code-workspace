@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\CS101"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "CS102"
+	}
+}
